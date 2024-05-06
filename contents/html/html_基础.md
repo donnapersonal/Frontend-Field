@@ -291,7 +291,7 @@ a 标签可`将图片作为链接下载`:
 
 **11. script**
 
-详见 [script 标签 defer 与 async](https://github.com/donnapersonal/Some-Field/main/contents/html/script_defer_async.md)
+详见 [script 标签 defer 与 async](https://github.com/donnapersonal/Some-Field/blob/main/contents/html/script_defer_async.md)
 
 #### 标签的分类
 
