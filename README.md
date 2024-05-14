@@ -8,6 +8,7 @@
 - [HTML 零碎知识点](https://github.com/donnapersonal/Some-Field/blob/main/contents/html/html_some_others.md)
 
 🚀 CSS
+[CSS 基础](https://github.com/donnapersonal/Some-Field/blob/main/contents/css/css_basics.md)
 
 🐳 JavaScript
 
