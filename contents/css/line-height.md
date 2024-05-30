@@ -210,8 +210,8 @@
 | inherit | 父元素的 line-height | 不用计算 | 父元素的 line-height |
 | length | 20px | 不用计算 | 20px |
 | % | 120% | 自身 font-size(16px) * 120% = 19.2px | 继承父元素计算后的 line-height 值 19.2px，而不是 120% |
-| number | 1.5 | 自身 font-size(16px) * 120% = 24px | 继承 1.5，line-height = 自身 font-size * 1.5 |
-| normal | 1.2 | 自身 font-size(16px) * 1.2% = 19.2px | 继承 1.2，line-height = 自身 font-size * 1.2 |
+| number | 1.5 | 自身 font-size(16px) * 1.5 = 24px | 继承 1.5，line-height = 自身 font-size * 1.5 |
+| normal | 1.2 | 自身 font-size(16px) * 1.2 = 19.2px | 继承 1.2，line-height = 自身 font-size * 1.2 |
 
 > **注意**：`line-height` 的值推荐使用数值，而不是使用 `em` 单位，因为 em 单位须有个参照值且该参照值不是固定的，不同属性有不同的参照值
 
